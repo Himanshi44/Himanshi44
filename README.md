@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning and Data Analysis Projects  <br>👯 I’m looking to collaborate on Data Science and AI Projects  <br>🌱 I’m currently learning Deep Learning and Data Structures & Algorithms  <br>💬 Ask me about Python, SQL, Machine Learning, and Data Analysis  <br>⚡ Fun fact: I enjoy building AI systems and working on real-world datasets
+🔭 I’m currently working on Machine Learning and Data Analysis Projects  <br>👯 I’m looking to collaborate on Data Science and AI Projects  <br>🌱 I’m currently learning Deep Learning and Data Structures & Algorithms  <br>💬 Ask me about Python, SQL, Machine Learning, and Data Analysis  
 
 
 ## 🌐 Socials:
